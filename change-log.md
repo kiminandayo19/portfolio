@@ -4,6 +4,10 @@
 Dokumen ini mencatat semua perubahan teknis, perbaikan bug, dan penambahan fitur pada proyek. Format pencatatan menggunakan timestamp untuk memastikan urutan perubahan yang akurat.
 
 ---
+## [2026-01-22 10:30:00]
+### Added
+- **Documentation**: Generated comprehensive `README.md` in the root directory covering the Portfolio Website, CMS, and Backend API ecosystem.
+
 ## [2026-01-22 01:30:00]
 ### Fixed
 - **Link Component Deprecation**: Mengganti implementasi `Link` dengan properti `legacyBehavior` yang menyebabkan warning dengan komponen wrapper global `LinkButton`.
